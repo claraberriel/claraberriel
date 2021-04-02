@@ -9,7 +9,7 @@
 
 
 <h3 align="vcenter"> 🤝🏻 Connect with Me </h3>
-<p align="center">
+<p>
   &nbsp; <a href="https://www.linkedin.com/in/clara-berriel-25190a15a/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
   &nbsp; <a href="https://twitter.com/berrielclara?lang=en" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/GvNj4Cn.png" width="30" /></a>
 </p>
