@@ -5,6 +5,7 @@
 - 📫 How to reach me: ... Send me an <a href="mailto:berrielclara@gmail.com">email</a>, I reply fairly quick!
 - ⚡ Fun facts: ... I'm a dog person 🐶🐾 and besides programming, I study International Relations 🌎🤝 so I try to converge those by asking research questions like: How does big data affect democracies? 🤔
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraberriel&layout=compact&theme=material-palenight" />
 
 
 <h3 align="vcenter"> 🤝🏻 Connect with Me </h3>
