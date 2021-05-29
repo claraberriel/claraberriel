@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... Android Development.
 - 🌱 I’m currently learning ... Java
 - 📫 How to reach me: ... Send me an <a href="mailto:berrielclara@gmail.com">email</a>, I reply fairly quick!
-- ⚡ Fun facts: ... I'm a dog person 🐶🐾 and besides programming, I study International Relations 🌎🤝 so I try to converge those by asking research questions like: How does big data affect democracies? 🤔
+- ⚡ Fun facts: ... I'm a dog person 🐶🐾 and besides programming, I study International Relations 🌎🤝 I prefer water sports like swimming and kayaking 🏊🏻‍♀️🚣🏻‍♀️ otherwise, you can find me at the gym 🏋🏻‍♀️
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraberriel&layout=compact&theme=material-palenight" />
 
